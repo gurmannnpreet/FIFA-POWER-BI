@@ -1,0 +1,65 @@
+team1,team2,possession team1,possession team2,possession in contest,number of goals team1,number of goals team2,category,total attempts team1,total attempts team2,conceded team1,conceded team2,on target attempts team1,on target attempts team2,yellow cards team1,yellow cards team2,red cards team1,red cards team2,offsides team1,offsides team2,passes team1,passes team2,passes completed team1,passes completed team2,corners team1,corners team2,free kicks team1,free kicks team2,match_no,penalties,winner
+Qatar,Ecuador,42%,50%,8%,0,2,Group A,5,6,2,0,0,3,4,2,0,0,3,4,450,480,381,409,1,3,19,17,1,0,Ecuador
+England,Iran,72%,19%,9%,6,2,Group B,13,8,2,6,7,3,0,2,0,0,2,2,809,224,730,154,8,0,16,10,2,0,England
+Senegal,Netherlands,44%,45%,11%,0,2,Group A,14,9,2,0,3,3,2,1,0,0,2,1,383,438,313,374,6,7,14,14,3,0,Netherlands
+United states,Wales,51%,39%,10%,1,1,Group B,6,7,1,1,1,3,4,2,0,0,1,1,569,409,509,321,5,3,11,15,4,0,Draw
+Argentina,Saudi arabia,64%,24%,12%,1,2,Group C,14,3,2,1,6,2,0,6,0,0,10,1,610,267,529,190,9,2,22,16,5,0,Saudi arabia
+Denmark,Tunisia,55%,33%,12%,0,0,Group D,11,11,0,0,4,1,2,1,0,0,1,1,594,387,523,302,11,9,11,10,6,0,Draw
+Mexico,Poland,54%,31%,15%,0,0,Group C,13,8,0,0,4,1,2,1,0,0,3,0,485,322,422,241,6,5,16,16,7,0,Draw
+France,Australia,56%,35%,9%,4,1,Group D,22,4,1,4,7,1,0,3,0,0,0,0,734,466,672,399,8,1,11,5,8,0,France
+Morocco,Croatia,32%,57%,12%,0,0,Group F,8,6,0,0,2,2,1,0,0,0,0,1,360,667,290,592,0,5,12,17,9,0,Draw
+Germany,Japan,65%,22%,13%,1,2,Group E,25,10,2,1,9,3,0,0,0,0,4,4,820,261,743,207,6,6,17,10,10,0,Japan
+Spain,Costa rica,74%,17%,9%,7,0,Group E,17,0,0,7,7,0,0,2,0,0,3,7,1061,231,1003,170,5,0,18,11,11,0,Spain
+Belgium,Canada,46%,43%,11%,1,0,Group F,9,21,0,1,3,4,3,2,0,0,0,1,512,448,439,382,4,4,15,10,12,0,Belgium
+Switzerland,Cameroon,43%,46%,11%,1,0,Group G,8,7,0,1,3,3,2,1,0,0,2,2,497,500,437,424,11,5,11,14,13,0,Switzerland
+Uruguay,Korea republic,49%,38%,13%,0,0,Group H,10,6,0,0,0,0,1,1,0,0,1,0,528,419,459,340,4,3,10,8,14,0,Draw
+Portugal,Ghana,55%,35%,10%,3,2,Group H,11,8,2,3,5,3,2,4,0,0,1,1,636,394,573,326,3,3,19,15,15,0,Portugal
+Brazil,Serbia,53%,34%,13%,2,0,Group G,24,4,0,2,10,0,0,3,0,0,1,0,585,403,526,341,6,4,12,8,16,0,Brazil
+Wales,Iran,51%,33%,16%,0,2,Group B,10,21,2,0,3,6,1,2,1,0,2,2,508,295,413,202,2,7,12,11,17,0,Iran
+Qatar,Senegal,42%,48%,10%,1,3,Group A,10,12,3,1,2,4,3,3,0,0,4,3,424,511,353,445,6,7,15,11,18,0,Senegal
+Netherlands,Ecuador,48%,39%,13%,1,1,Group A,2,13,1,1,1,5,0,1,0,0,1,4,524,425,451,345,2,5,16,16,19,0,Draw
+England,United states,51%,40%,9%,0,0,Group B,8,10,0,0,3,2,0,0,0,0,1,0,550,427,488,368,3,7,15,10,20,0,Draw
+Tunisia,Australia,50%,31%,19%,0,1,Group D,13,8,1,0,4,2,3,0,0,0,3,0,501,334,396,239,5,2,15,19,21,0,Australia
+Poland,Saudi arabia,30%,57%,14%,2,0,Group C,8,16,0,2,3,5,3,2,0,0,0,0,303,560,236,494,4,5,15,17,22,0,Poland
+France,Denmark,44%,44%,12%,2,1,Group D,21,10,1,2,6,2,1,2,0,0,1,1,503,537,437,473,6,4,10,5,23,0,France
+Argentina,Mexico,50%,36%,14%,2,0,Group C,5,4,0,2,2,1,1,4,0,0,2,4,533,356,464,287,4,2,23,17,24,0,Argentina
+Japan,Costa rica,48%,39%,13%,0,1,Group E,14,4,1,0,3,1,3,3,0,0,0,2,575,444,510,371,5,0,11,22,25,0,Costa rica
+Belgium,Morocco,56%,32%,12%,0,2,Group F,10,11,2,0,4,4,1,1,0,0,3,3,671,317,598,275,9,1,17,13,26,0,Morocco
+Croatia,Canada,41%,46%,13%,4,1,Group F,13,9,1,4,10,2,2,2,0,0,1,3,462,511,391,434,5,2,8,14,27,0,Croatia
+Spain,Germany,56%,33%,11%,1,1,Group E,7,10,1,1,3,4,1,3,0,0,2,5,647,352,565,281,6,5,16,15,28,0,Draw
+Cameroon,Serbia,38%,49%,13%,3,3,Group G,13,16,3,3,8,6,2,2,0,0,0,4,364,513,271,433,4,3,17,8,29,0,Draw
+Korea republic,Ghana,53%,32%,15%,2,3,Group H,21,8,3,2,6,3,2,2,0,0,1,1,540,319,477,260,12,5,10,14,30,0,Ghana
+Brazil,Switzerland,51%,40%,9%,1,0,Group G,9,4,0,1,5,0,1,1,0,0,3,1,565,488,498,415,8,3,18,13,31,0,Brazil
+Portugal,Uruguay,53%,35%,12%,2,0,Group H,14,10,0,2,4,3,3,2,0,0,2,0,596,390,517,306,6,2,15,13,32,0,Portugal
+Netherlands,Qatar,54%,38%,8%,2,0,Group A,13,6,0,2,4,4,1,0,0,0,4,0,795,459,740,394,4,2,9,24,33,0,Netherlands
+Ecuador,Senegal,51%,32%,17%,1,2,Group A,8,15,2,1,4,5,0,1,0,0,0,3,432,269,353,198,3,6,14,22,34,0,Senegal
+Wales,England,33%,58%,10%,0,3,Group B,7,17,3,0,1,7,2,0,0,0,1,1,325,588,261,529,1,6,10,17,35,0,England
+Iran,United states,42%,45%,13%,0,1,Group B,6,12,1,0,2,5,3,1,0,0,2,1,463,470,379,413,1,5,11,15,36,0,United states
+Australia,Denmark,24%,60%,16%,1,0,Group D,8,14,0,1,4,3,2,1,0,0,1,3,286,650,187,567,2,6,13,12,37,0,Australia
+Tunisia,France,30%,56%,14%,1,0,Group D,5,9,0,1,3,3,1,0,0,0,3,2,328,636,266,566,7,8,8,17,38,0,Tunisia
+Poland,Argentina,24%,67%,9%,0,2,Group C,4,25,2,0,0,13,1,1,0,0,0,0,321,862,261,814,1,9,12,5,39,0,Argentina
+Saudi arabia,Mexico,29%,55%,17%,1,2,Group C,10,25,2,1,2,10,6,1,0,0,2,6,297,412,197,336,1,8,23,22,40,0,Mexico
+Croatia,Belgium,43%,47%,10%,0,0,Group F,11,15,0,0,4,4,0,1,0,0,4,0,578,596,504,531,2,4,9,11,41,0,Draw
+Canada,Morocco,52%,36%,12%,1,2,Group F,5,7,2,1,0,2,4,0,0,0,4,4,539,384,472,308,6,2,18,18,42,0,Morocco
+Japan,Spain,14%,78%,8%,2,1,Group E,6,14,1,2,3,5,3,0,0,0,2,2,225,1070,167,992,0,2,8,11,43,0,Japan
+Costa rica,Germany,27%,60%,13%,2,4,Group E,8,32,4,2,6,11,1,0,0,0,4,3,347,727,269,661,1,14,12,7,44,0,Germany
+Ghana,Uruguay,46%,39%,15%,0,2,Group H,9,12,2,0,4,7,2,5,0,0,2,2,460,446,377,361,5,2,12,20,45,0,Uruguay
+Korea republic,Portugal,34%,55%,11%,2,1,Group H,12,12,1,2,6,4,2,0,0,0,1,5,359,606,304,541,5,4,15,10,46,0,Korea republic
+Serbia,Switzerland,45%,41%,14%,2,3,Group G,11,14,3,2,4,7,7,4,0,0,0,0,476,403,390,325,2,0,14,18,47,0,Switzerland
+Cameroon,Brazil,31%,56%,13%,1,0,Group G,7,19,0,1,3,6,5,2,1,0,0,1,295,548,239,491,3,11,15,14,48,0,Cameroon
+Netherlands,United states,33%,54%,13%,3,1,Round of 16,11,18,1,3,6,7,2,0,0,0,0,3,396,567,320,487,4,5,8,10,49,0,Netherlands
+Argentina,Australia,53%,35%,12%,2,1,Round of 16,14,5,1,2,5,2,0,2,0,0,4,0,711,450,635,381,1,3,15,11,50,0,Argentina
+France,Poland,48%,42%,10%,3,1,Round of 16,16,11,1,3,7,3,1,2,0,0,3,1,540,466,481,391,7,1,8,11,51,0,France
+England,Senegal,54%,35%,11%,3,0,Round of 16,8,10,0,3,4,2,0,1,0,0,0,0,597,393,523,320,3,3,12,16,52,0,England
+Japan,Croatia,35%,51%,14%,1,1,Round of 16,12,16,1,1,4,4,0,2,0,0,3,0,532,735,414,624,8,5,16,16,53,1,Draw
+Brazil,Korea republic,47%,44%,9%,4,1,Round of 16,18,10,1,4,9,6,0,1,0,0,0,5,616,548,556,486,5,4,16,8,54,0,Brazil
+Morocco,Spain,22%,68%,10%,0,0,Round of 16,6,13,0,0,3,1,1,1,0,0,5,4,323,1041,229,967,0,8,18,20,55,1,Draw
+Portugal,Switzerland,43%,48%,9%,6,1,Round of 16,14,10,1,6,9,1,0,2,0,0,3,3,461,512,392,436,6,6,13,15,56,0,Portugal
+Croatia,Brazil,45%,45%,10%,1,1,Quarter-final,9,20,1,1,1,11,2,3,0,0,3,3,715,695,632,625,3,7,27,25,57,1,Draw
+Netherlands,Argentina,45%,44%,11%,2,2,Quarter-final,5,15,2,2,2,6,8,8,1,0,1,2,651,603,557,511,2,8,20,30,58,1,Draw
+Morocco,Portugal,22%,65%,13%,1,0,Quarter-final,9,11,0,1,3,3,3,1,1,0,2,2,229,678,171,592,3,9,11,17,59,0,Morocco
+England,France,54%,36%,10%,1,2,Quarter-final,14,9,2,1,6,5,1,3,0,0,1,2,508,369,453,310,5,2,14,11,60,0,France
+Argentina,Croatia,34%,54%,12%,3,0,Semi-final,10,12,0,3,7,3,2,2,0,0,1,0,408,624,344,551,2,4,6,16,61,0,Argentina
+France,Morocco,34%,55%,11%,2,0,Semi-final,14,13,0,2,2,1,0,1,0,0,4,3,358,583,307,518,2,3,13,15,62,0,France
+Croatia,Morocco,45%,45%,10%,2,1,Play-off for third place,14,7,1,2,4,2,0,2,0,0,2,2,491,494,430,428,6,3,13,15,63,0,Croatia
+Argentina,France,46%,40%,14%,3,3,Final,21,10,3,3,9,5,4,3,0,0,4,4,648,516,544,419,6,5,22,28,64,1,Draw
